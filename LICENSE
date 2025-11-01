@@ -1,0 +1,89 @@
+Non-Commercial Personal and Academic Use License
+
+Copyright (c) [2025] [Mahad Imran]. All Rights Reserved.
+
+This software and associated documentation files (the "Software") are the 
+proprietary and confidential property of the copyright holder.
+
+TERMS AND CONDITIONS FOR USE
+
+PERMITTED USES:
+You are granted permission to use the Software solely for the following purposes:
+
+1. Personal Use: You may use, modify, and run the Software for your personal, 
+   non-commercial purposes.
+
+2. Academic Use: Students, researchers, and academic institutions may use, 
+   modify, and run the Software for educational and research purposes only, 
+   including but not limited to:
+   - Academic coursework and assignments
+   - Non-commercial research projects
+   - Educational demonstrations and teaching
+
+3. Study and Analysis: You may study and analyze the Software's code, 
+   algorithms, and functionality for learning purposes.
+
+RESTRICTIONS:
+
+1. COMMERCIAL USE PROHIBITED: You may NOT use the Software for any commercial 
+   purpose, including but not limited to:
+   - Commercial product development
+   - Commercial consulting or services
+   - Any use that generates revenue or financial gain
+   - Integration into commercial products or services
+   
+2. REDISTRIBUTION PROHIBITED: You may NOT:
+   - Publish, distribute, or redistribute the Software in any form
+   - Share or provide the Software to third parties
+   - Submit contributions or modifications back to the original repository
+   - Create derivative works for distribution
+   - Include the Software in any public repository
+
+3. NO SUBLICENSING: You may not grant sublicenses or permissions to others.
+
+DEFINITIONS:
+
+- "Commercial Use" means any use that is intended for or directed toward 
+  commercial advantage or monetary compensation, or use by any commercial entity.
+  
+- "Academic Use" means use by students, faculty, staff, or researchers at 
+  educational institutions for non-commercial educational and research purposes.
+
+DISCLAIMER OF WARRANTY:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE.
+
+TERMINATION:
+
+This license is effective until terminated. Your rights under this license will 
+terminate automatically without notice if you fail to comply with any term of 
+this license. Upon termination, you must destroy all copies of the Software.
+
+THIRD-PARTY COMPONENTS:
+
+This Software includes or depends on third-party open-source libraries and 
+components. These components are subject to their own respective licenses, 
+which may differ from this license. You must comply with both this license 
+and the licenses of all third-party components.
+
+Third-party components include, but are not limited to:
+- Streamlit, GeoPandas, Pandas, NumPy (and their dependencies)
+- Google Generative AI SDK
+- PostgreSQL/PostGIS
+- Other libraries listed in requirements.txt
+
+Each third-party component's license applies only to that component, not to 
+your original code in this Software. Your original code remains subject to 
+this license.
+
+CONTACT:
+
+For inquiries about commercial licensing or permissions beyond those granted 
+here, please contact: [Your Contact Information]
+
