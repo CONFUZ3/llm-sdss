@@ -2,7 +2,7 @@
 
 An advanced geospatial decision support system that combines **Large Language Models (LLMs)**, **Geographic Information Systems (GIS)**, and **Multi-Criteria Decision Analysis (MCDA)** to identify optimal locations for development projects.
 
-**Short name**: LLM-SDSS
+![app.gif](app.gif)
 
 ## Overview
 
@@ -55,7 +55,7 @@ Instead of manually configuring GIS parameters, you can describe your requiremen
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/CONFUZ3/llm-sdss
 cd llm-sdss
 ```
 
@@ -219,7 +219,7 @@ Modify prompts in `llm_service.py` to change how the AI interprets criteria or g
 
 ## License
 
-Copyright (c) [Year] [Your Name/Organization]. All Rights Reserved.
+Copyright (c) [2025] [Mahad Imran]. All Rights Reserved.
 
 This software is provided for use only. You are permitted to:
 - Use the code for personal or academic purposes
@@ -243,6 +243,5 @@ Built using:
 - Folium and Matplotlib for visualization
 
 ## Contact
-
-[Add your contact information or repository links]
+You can reach me at mahad.imran29@gmail.com
 
